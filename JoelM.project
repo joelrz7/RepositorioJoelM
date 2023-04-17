@@ -9,3 +9,9 @@
 	<natures>
 	</natures>
 </projectDescription>
+
+
+
+static void main(){
+System.out.Println("Esto es un mensaje");
+}
